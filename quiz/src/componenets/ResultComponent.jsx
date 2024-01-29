@@ -16,7 +16,7 @@ export default function ResultComponent(){
             <h5>Number of wrong answers</h5>
           </div>
           <div className="number">
-            <h5>20</h5>
+            <h5>15</h5>
             <h5>9</h5>
             <h5>3</h5>
             <h5>6</h5>
